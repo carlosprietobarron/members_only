@@ -1,6 +1,8 @@
-# Project Name
+# Project MEMBERS ONLY
 
-> This is page for post something and you will be able to see the author unless you are logged in.
+# Description
+
+> This is an online applications that allows registered users to create and publish post. Shows the created posts on a public list, letting the author of each post to be on display only to valid existing users
 
 ![screenshot](./screenshot.png)
 
