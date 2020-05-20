@@ -12,10 +12,8 @@
 
   <tbody>
     <% @posts.each do |post| %>
-      <tr>
-        <% if user_signed_in? %>
-        <td><%=post.user.name%></td>
-        <%end%>
+      <tr>    
+        <td><%=author_name(post)%></td>
         <td><%= post.post %></td>
       </tr>
     <% end %>
